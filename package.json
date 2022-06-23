@@ -19,7 +19,7 @@
   "dependencies": {
     "body-parser": "^1.17.1",
     "express": "^4.15.2",
-    "jsdom": "^12.2.0",
+    "jsdom": "^16.5.0",
     "knex": "^0.13.0",
     "mysql": "^2.13.0"
   }
